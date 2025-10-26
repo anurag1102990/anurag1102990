@@ -1,7 +1,7 @@
 🎓 **Computing Science undergraduate** at the **University of Alberta**, focus on **Artificial Intelligence & Machine Learning**.  
 💡 I love building practical AI systems — tools, research, and products.  
 
-## 🧠 What I Do  
+### 🧠 What I Do  
 
 - **Machine Learning & AI Research:**  
   Reinforcement learning, generative models, and data-driven systems.  
@@ -13,7 +13,7 @@
 - **Freelance / Collaboration Work:**  
   Open to ML-based app development, model integration, or full-stack projects involving AI features.  
 
-## 🚀 Featured Project  
+### 🚀 Featured Project  
 
 ### 🧩 [CodeNeuron](https://codeneuron.tech) — Hands-on AI/ML Practice Platform  
 Built a platform to make AI/ML learning more intuitive and project-oriented.  
@@ -22,19 +22,19 @@ Built a platform to make AI/ML learning more intuitive and project-oriented.
 - Browser-based IDE with sandboxed execution and instant visual feedback  
 - Streak tracking, discussion space, and personal notes for community learning  
 
-## 💻 Previous Experience  
+### 💻 Previous Experience  
 
 - **AI/ML Researcher @ University of Alberta** – Reinforcement learning & game-AI research (policy gradient optimization).  
 - **ML Intern @ PCL Construction** – Built predictive BIM models (98%+ accuracy).  
 - **Software Developer Intern @ PaySpaze** – Developed and deployed Flutter apps with secure digital authentication.  
 
-## ⚙️ Tech Stack  
+### ⚙️ Tech Stack  
 
 **Languages:** Python, TypeScript, C++, JavaScript, Dart  
 **Frameworks & Tools:** React, Next.js, PyTorch, TensorFlow, Firebase, Docker, GCP  
 **Core Skills:** Machine Learning, Deep Learning, Data Visualization, Full-Stack Development, Product Design  
 
-## 🌱 Currently Exploring  
+### 🌱 Currently Exploring  
 
 - Reinforcement Learning  
 - Transformers
