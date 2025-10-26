@@ -1,5 +1,3 @@
-# 👋 Hey, I’m Anurag Jain  
-
 🎓 **Computing Science undergraduate** at the **University of Alberta**, focus on **Artificial Intelligence & Machine Learning**.  
 💡 I love building practical AI systems — tools, research, and products.  
 
