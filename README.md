@@ -19,7 +19,7 @@
 
 ### 🚀 Featured Project  
 
-#### 🧩 [CodeNeuron](https://codeneuron.tech) — Hands-on AI/ML Practice Platform  
+#### 🧩 [CodeNeuron](https://codeneuron.tech) — Hands-on AI/ML Practice Platform with Dataset and Visual Feedbacks
 Built a platform to make AI/ML learning more intuitive and project-oriented.  
 
 - Datasets and structured, story-driven problems to build intuition — not just code  
